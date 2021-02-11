@@ -1,2 +1,2 @@
 # Password-Generator
-A simple program, that generates random paswords, made while learning Python.
+A simple program, that generates random passwords, made while learning Python.
